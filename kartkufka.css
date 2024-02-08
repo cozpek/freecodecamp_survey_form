@@ -1,0 +1,16 @@
+body {
+    background-color: lightcyan;
+}
+h1 {
+    padding: 1rem 0;
+    vertical-align: middle;
+}
+fieldset {
+    border: none;
+    padding: 2rem 0;
+    vertical-align: middle;
+}
+label {
+    display: block;
+    margin: 0.5rem 0;
+}
